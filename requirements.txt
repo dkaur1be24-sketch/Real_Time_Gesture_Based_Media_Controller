@@ -5,3 +5,6 @@ numpy
 dlib
 Pillow
 scipy
+opencv-python
+pyttsx3
+pygetwindow
