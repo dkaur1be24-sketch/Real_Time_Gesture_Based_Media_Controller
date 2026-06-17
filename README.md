@@ -5,6 +5,8 @@ A Python-based intelligent music control system that allows users to control You
 The project combines **Computer Vision**, **Face Recognition**, **Hand Tracking**, **Gesture Recognition**, **Human-Computer Interaction (HCI)**, and **Automation** to create a touchless multimedia control experience.
 
 ---
+## Demo Link
+https://drive.google.com/file/d/1cHzdbKP9jMqYx5v461ocvJg1CVaETDIC/view?usp=sharing
 
 ## 📌 Features
 
