@@ -131,13 +131,11 @@ pip install pyttsx3
 
 ### Step 1
 
-Open the source file and replace:
+Open the source file 
 
 ```python
-YOUTUBE_URL = "YOUR_PLAYLIST_URL"
+YOUTUBE_URL = "https://www.youtube.com/watch?v=xzUVPN68Ym4&list=PLTDo4oxuAZyTQ2qpHRvcCJX3gQHjubgqQ"
 ```
-
-with your YouTube playlist link.
 
 ### Step 2
 
