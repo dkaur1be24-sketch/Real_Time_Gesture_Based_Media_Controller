@@ -103,7 +103,7 @@ Gesture-Controlled-YouTube-Player/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Gesture-Controlled-YouTube-Player.git
+git clone https://github.com/dkaur1be24-sketch/Real_Time_Gesture_Based_Media_Controller
 
 cd Gesture-Controlled-YouTube-Player
 ```
